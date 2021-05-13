@@ -17,4 +17,4 @@ git clone https://github.com/sevelantis/noughts-and-crosses
 python3 circle_and_cross.py
 ```
 
-![Alt text](/lab6/readme-files/board-screen.png?raw=true "gameplay screenshop")
+![Alt text](/readme-files/board-screen.png?raw=true "gameplay screenshop")
